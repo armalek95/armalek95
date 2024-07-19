@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armalek95
 - 👀 I’m interested in Problem Solving and Programming (specially Python, and R)
-- 🌱 I’m currently learning Python and AI (CS50 - Introduction to AI)
+- 🌱 I’m currently working on a project that utilizes TSQL
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: email me at malek.herbert@gmail.com
 
